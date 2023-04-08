@@ -2,7 +2,7 @@
 This repo made for capstone project of Data Analytics Specialization @Algortima Data Science Academy - cohort Vulcan Scholarship
 
 ## Google Play Store Analytics by Kenang Ghalih
-<img src="assets/complete-webp.png" width="550">
+<img src="complete-webp.png" width="550">
 <ul>
    <li>Kenang Ghalih Diasthama</li>
    <li>Cohort: Vulcan Scholarship</li>
