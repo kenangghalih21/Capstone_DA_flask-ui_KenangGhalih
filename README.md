@@ -11,6 +11,9 @@ This repo made for capstone project of Data Analytics Specialization @Algortima 
 
 ## Rubrics
 1. Setting Repository Github dan Environment (2 poin)
+   - i use environment named: capstone-flask
+   - i use pyhton 3.10
+   - i make export latest requirements name as: requirements_capstone-flask-latest.txt
 2. Data Preproses and Exploratory Data Analysis (2 poin)
 3. Data Wrangling (4 poin)
 4. Data Visualization (4 poin)
