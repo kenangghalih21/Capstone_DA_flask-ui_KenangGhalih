@@ -10,11 +10,11 @@ This repo made for capstone project of Data Analytics Specialization @Algortima 
 </ul>
 
 ## Rubrics
-### 1. Setting Repository Github dan Environment (2 poin)
-### 2. Data Preproses and Exploratory Data Analysis (2 poin)
-### 3. Data Wrangling (4 poin)
-### 4. Data Visualization (4 poin)
-### 5. Build Flask App (4 poin)
+1. Setting Repository Github dan Environment (2 poin)
+2. Data Preproses and Exploratory Data Analysis (2 poin)
+3. Data Wrangling (4 poin)
+4. Data Visualization (4 poin)
+5. Build Flask App (4 poin)
 
 ## Special Thanks
 <p>Finally, this capstone of DA specialization(1/3) has been finished. I'm so grateful for the opportunity that i can join to be part of big fams of Algortima Data Science School. First and Foremost, i want to say thankful to
@@ -29,6 +29,6 @@ This repo made for capstone project of Data Analytics Specialization @Algortima 
 
 ## My Gitlab🦊
 <p>Sometimes, i often to use gitlab too..
-<a href="https://gitlab.com/kenangghalih21" target="_blank">: Visit my gitlab!</a> </p>
+<a href="https://gitlab.com/kenangghalih21" target="_blank"> Visit my gitlab!</a> </p>
 <p>Also connect to my linkedin:
-<a href="www.linkedin.com/in/kenangghalih21" target="_blank">: Linkedin</a> </p>
+<a href="https://www.linkedin.com/in/kenangghalih21/" target="_blank"> Linkedin</a> </p>
