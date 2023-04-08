@@ -62,7 +62,7 @@ def index():
     # bagian ini digunakan untuk membuat bar plot
     plt.barh(X,Y, color=my_colors)
     # bagian ini digunakan untuk menyimpan plot dalam format image.png
-    plt.savefig('cat_order.png',bbox_inches="tight") 
+    plt.savefig('assets/cat_order.png',bbox_inches="tight"); 
 
     # bagian ini digunakan untuk mengconvert matplotlib png ke base64 agar dapat ditampilkan ke template html
     figfile = BytesIO()
@@ -83,7 +83,7 @@ def index():
     plt.scatter(X,Y, s=area, alpha=0.3)
     plt.xlabel('Reviews')
     plt.ylabel('Rating')
-    plt.savefig('rev_rat.png',bbox_inches="tight")
+    plt.savefig('assets/rev_rat.png',bbox_inches="tight");
 
     figfile = BytesIO()
     plt.savefig(figfile, format='png')
@@ -98,7 +98,7 @@ def index():
     plt.hist(X,bins=100, density=True,  alpha=0.75)
     plt.xlabel('Size')
     plt.ylabel('Frequency')
-    plt.savefig('hist_size.png',bbox_inches="tight")    
+    plt.savefig('assets/hist_size.png',bbox_inches="tight");    
 
     figfile = BytesIO()
     plt.savefig(figfile, format='png')
@@ -125,7 +125,7 @@ def index():
     # Equal aspect ratio ensures that pie is drawn as a circle
     plt.tight_layout()
     plt.show
-    plt.savefig('pie_content-rating.png',bbox_inches="tight");
+    plt.savefig('assets/pie_content-rating.png',bbox_inches="tight");
 
     figfile = BytesIO()
     plt.savefig(figfile, format='png')
