@@ -53,3 +53,5 @@ Data yang digunakan pada capstone project ini adalah data hasil scraping dari Go
 <a href="https://gitlab.com/kenangghalih21" target="_blank"> Visit my gitlab!</a> </p>
 <p>Also connect to my linkedin:
 <a href="https://www.linkedin.com/in/kenangghalih21/" target="_blank"> Linkedin</a> </p>
+<p>Take a look! Another Capstone i've been tried - Web Scrapping:
+<a href="https://github.com/kenangghalih21/Capstone_DA_web-scrapping_KenangGhalih" target="_blank"> Github Project</a> </p>
